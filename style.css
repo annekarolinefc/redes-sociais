@@ -3,6 +3,10 @@
     background-color: black;
 }
 
+img{
+    height: 10rem;
+}
+
 .circle{
     margin-top: 5rem;
     margin-bottom: 2rem;
@@ -33,14 +37,5 @@ a{
 
 a:hover{
     background-color: plum;
-}
-
-img{
-    height: 10rem;
-}
-
-button{
-   
-    
-    
+    transform: scale(1.1);
 }
